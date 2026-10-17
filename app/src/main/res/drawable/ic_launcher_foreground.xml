@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield / Academic Frame -->
+    <path
+        android:pathData="M54,22 L78,32 L78,58 C78,72 54,86 54,86 C54,86 30,72 30,58 L30,32 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#F59E0B"
+        android:fillColor="#15243B" />
+    <!-- Inner Academic Gateway / Arch -->
+    <path
+        android:pathData="M42,72 L42,50 C42,43 66,43 66,50 L66,72"
+        android:strokeWidth="2"
+        android:strokeColor="#94A3B8"
+        android:fillColor="#0A111F" />
+    <!-- Clock Dial Circle -->
+    <path
+        android:pathData="M54,38 A10,10 0 1,1 54,58 A10,10 0 1,1 54,38"
+        android:strokeWidth="2"
+        android:strokeColor="#10B981"
+        android:fillColor="#0D1929" />
+    <!-- Clock Hands at 09:30 (Lecture in session) -->
+    <path
+        android:pathData="M54,48 L54,42 M54,48 L59,48"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeColor="#F8FAFC" />
+    <!-- Clock center pin -->
+    <path
+        android:pathData="M54,48 A1.2,1.2 0 1,1 54,48.01"
+        android:strokeWidth="2.5"
+        android:strokeColor="#F59E0B" />
+    <!-- Timetable grid lines on the gateway -->
+    <path
+        android:pathData="M46,60 L62,60 M46,66 L62,66"
+        android:strokeWidth="1.2"
+        android:strokeColor="#F8FAFC" />
+</vector>

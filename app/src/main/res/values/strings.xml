@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timy</string>
+    <string name="university_name">Kisii University</string>
+    <string name="app_tagline">Academic Timetable. Zero Ambiguity.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_venues">Venues</string>
+    <string name="nav_notifications">Alerts</string>
+    <string name="nav_profile">Profile</string>
+</resources>

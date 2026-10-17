@@ -1,0 +1,6 @@
+{
+  "name": "Timy",
+  "description": "Kisii University Academic Timetable & Venue Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
